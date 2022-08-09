@@ -1,7 +1,9 @@
 library(sf)
 library(tmap)
 library(dplyr)
+
 data(World)
+
 # package tmap has a syntax similar to ggplot. The functions start all with tm_
 tm_shape(World) +
   tm_borders()
