@@ -3,13 +3,13 @@
 .Rhistory
 .RData
 .Ruserdata
-
 # ignoring all html in the repository
 *.html
-
 # all zip files
 *.zip
-
 # the path to raster and shapefile files
 data/raster
 data/shapefiles
+02_importing_data.R
+03_data_manipulation.R
+04_eda.R
