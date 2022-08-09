@@ -26,3 +26,4 @@ ggplot(covid) +
   geom_line(aes(x = date, y = new_confirmed)) +
   theme_minimal() +
   labs(x = "Date", y = "New cases")
+
