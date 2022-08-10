@@ -16,6 +16,7 @@ knitr::opts_chunk$set(
 # foo
 
 <!-- badges: start -->
+[![R-CMD-check](https://github.com/salmeronamanda/shannon/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/salmeronamanda/shannon/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of foo is to ...
@@ -26,7 +27,7 @@ You can install the development version of foo from [GitHub](https://github.com/
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("salmeronamanda/Scientific-Programming")
+devtools::install_github("salmeronamanda/shannon")
 ```
 
 ## Example

@@ -4,6 +4,8 @@
 # foo
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/salmeronamanda/shannon/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/salmeronamanda/shannon/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of foo is to …
